@@ -2,7 +2,7 @@
 name = "kvs"
 version = "0.1.0"
 authors = ["Rafael Mendes <rafaelpiresm@gmail.com>"]
-description = "A key-value store"
+description = "A in memory key-value store"
 edition = "2018"
 
 [dev-dependencies]
@@ -11,3 +11,4 @@ predicates = "1.0.0"
 
 [dependencies]
 clap = "2.33.3"
+
